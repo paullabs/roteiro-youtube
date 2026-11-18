@@ -80,4 +80,4 @@ agents/                            checador-de-fatos, espectador-leigo
 commands/                          roteiro, revisar-roteiro, perfil
 ```
 
-Feito por Paulo Labs.
+Feito por Paulo Labs. Licença MIT: pode usar, adaptar e compartilhar, mantendo o aviso de autoria (arquivo `LICENSE`).
