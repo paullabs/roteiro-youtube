@@ -1,0 +1,12 @@
+{
+  "name": "roteiro-youtube",
+  "owner": { "name": "Paulo Labs" },
+  "metadata": { "description": "Roteiros de YouTube longo em português, para o Claude Code e o Claude no desktop." },
+  "plugins": [
+    {
+      "name": "roteiro-youtube",
+      "source": "./",
+      "description": "Do tema ao roteiro pronto para gravar: pacote, abertura, blocos, revisão e leitura de retenção, na voz de cada criador."
+    }
+  ]
+}

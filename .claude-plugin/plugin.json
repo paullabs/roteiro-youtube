@@ -1,0 +1,7 @@
+{
+  "name": "roteiro-youtube",
+  "version": "0.1.0",
+  "description": "Roteiros de YouTube longo em português, na voz do criador: ideia e ângulo, título e thumb, abertura, estrutura em escada, roteiro completo, revisão com checador de fatos e espectador leigo, e leitura de retenção.",
+  "author": { "name": "Paulo Labs" },
+  "keywords": ["youtube", "roteiro", "script", "retencao", "titulo", "thumbnail", "portugues"]
+}
